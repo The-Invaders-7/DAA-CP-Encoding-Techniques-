@@ -149,7 +149,7 @@ public class NewHomePage extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 110, 420, 310));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("E:\\Extra Project Files\\4571248.jpg")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/bg (2).jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 800, 530));
 
         setSize(new java.awt.Dimension(812, 536));
